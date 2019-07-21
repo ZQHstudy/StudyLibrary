@@ -1,0 +1,6 @@
+E:\git\StudyLibrary\MyLibrary1\学习用的库1\MyLibrary\bin\Debug\MyLibrary.dll
+E:\git\StudyLibrary\MyLibrary1\学习用的库1\MyLibrary\bin\Debug\MyLibrary.pdb
+E:\git\StudyLibrary\MyLibrary1\学习用的库1\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+E:\git\StudyLibrary\MyLibrary1\学习用的库1\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+E:\git\StudyLibrary\MyLibrary1\学习用的库1\MyLibrary\obj\Debug\MyLibrary.dll
+E:\git\StudyLibrary\MyLibrary1\学习用的库1\MyLibrary\obj\Debug\MyLibrary.pdb
