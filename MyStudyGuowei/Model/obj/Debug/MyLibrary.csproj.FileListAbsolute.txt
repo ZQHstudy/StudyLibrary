@@ -9,3 +9,8 @@ E:\Study\C#Study\MyStudyGuowei\Model\obj\Debug\MyLibrary.csprojAssemblyReference
 E:\Study\C#Study\MyStudyGuowei\Model\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
 E:\Study\C#Study\MyStudyGuowei\Model\obj\Debug\Model.dll
 E:\Study\C#Study\MyStudyGuowei\Model\obj\Debug\Model.pdb
+E:\git\StudyLibrary\MyStudyGuowei\Model\bin\Debug\Model.dll
+E:\git\StudyLibrary\MyStudyGuowei\Model\bin\Debug\Model.pdb
+E:\git\StudyLibrary\MyStudyGuowei\Model\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+E:\git\StudyLibrary\MyStudyGuowei\Model\obj\Debug\Model.dll
+E:\git\StudyLibrary\MyStudyGuowei\Model\obj\Debug\Model.pdb
