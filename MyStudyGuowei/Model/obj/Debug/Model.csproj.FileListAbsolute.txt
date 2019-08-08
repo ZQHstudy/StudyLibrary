@@ -1,0 +1,4 @@
+G:\ZQHdll\新建文件夹\ConsoleApplication1\Model\bin\Debug\Model.dll
+G:\ZQHdll\新建文件夹\ConsoleApplication1\Model\bin\Debug\Model.pdb
+G:\ZQHdll\新建文件夹\ConsoleApplication1\Model\obj\Debug\Model.dll
+G:\ZQHdll\新建文件夹\ConsoleApplication1\Model\obj\Debug\Model.pdb
