@@ -10,13 +10,13 @@ namespace Model
 {
     public class StudyXml
     {
+        static string path = Directory.GetCurrentDirectory() + "Write.xml";
         public StudyXml()
         {
 
         }
         public void Get()
         {
-            string path = Directory.GetCurrentDirectory() + "Write.xml";
             XElement root =
                 new XElement("书籍",
                     new XElement("历史书",
@@ -28,5 +28,26 @@ namespace Model
                     );
             root.Save(path);
         }
+        public static void CreateXDocument()
+        {
+            XDocument xdoc = new XDocument(
+                    new XProcessingInstruction("xml-stylesheet", "title='EmpInfo'"),
+                    new XComment("some comments"),
+                    new XElement("Root",
+                            new XElement("Employees",
+                                    new XElement("Employee",
+                                            new XAttribute("id", "1"),
+                                            new XElement("Name", "Scott Klein"),
+                                            new XElement("Title", "Geek"),
+                                            new XElement("HireDate", "02/05/2007"),
+                                            new XElement("Gender", "M")
+                                        )
+                                )
+                        ),
+                    new XComment("more comments")
+                );
+            xdoc.Save(path);
+        }
+
     }
 }

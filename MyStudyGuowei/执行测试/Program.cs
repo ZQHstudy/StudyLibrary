@@ -7,7 +7,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication1
+namespace Test
 {
     class Program
     {
@@ -15,8 +15,9 @@ namespace ConsoleApplication1
         {
             try
             {
-                StudyXml xml = new StudyXml();
-                xml.Get();
+                //StudyXml xml = new StudyXml();
+                //xml.Get();
+                StudyXml.CreateXDocument();
                 //OperationLog.WriteLog(DateTime.Now + "张庆豪");
                 //operLog.WriteLog(DateTime.Now + "张庆豪");
                 //operLog.WriteLog(DateTime.Now + "张庆豪");
@@ -30,13 +31,13 @@ namespace ConsoleApplication1
             {
                 Console.WriteLine(ex.Message);
             }
-            finally
-            {
-                //operLog.Close();
-                Log.Close();
-            }
-            PersonInfo per = new PersonInfo();
-            per.GetVlaues();
+            //finally
+            //{
+            //    //operLog.Close();
+            //    Log.Close();
+            //}
+            //PersonInfo per = new PersonInfo();
+            //per.GetVlaues();
             Console.Read();
         }
 
